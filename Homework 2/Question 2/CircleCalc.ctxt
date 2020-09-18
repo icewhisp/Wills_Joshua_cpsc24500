@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=CircleCalc
+comment0.text=\r\n\ Generate\ a\ random\ circle\ and\ calculate\ its\ area\ and\ circumference\r\n\r\n\ @author\ Joshua\ Wills\r\n\ @version\ Wills\r\n
+comment1.params=
+comment1.target=CircleCalc()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ CircleCalc,\ randomly\ assigning\ radius\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\r\n\ Runs\ the\ whole\ program\r\n
+comment3.params=
+comment3.target=int\ getRadius()
+comment3.text=\r\n\ Returns\ the\ radius\r\n
+comment4.params=
+comment4.target=double\ getArea()
+comment4.text=\r\n\ Returns\ the\ area\r\n
+comment5.params=
+comment5.target=double\ getCircum()
+comment5.text=\r\n\ Returns\ the\ circumference\r\n
+numComments=6

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Flooring
+comment0.text=\r\n\ Calculate\ how\ much\ wood\ you\ need\ to\ buy\r\n\r\n\ @author\ Joshua\ Wills\r\n\ @version\ 1\r\n
+comment1.params=left\ right\ top\ bot
+comment1.target=Flooring(int,\ int,\ int,\ int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=
+comment3.target=double\ getArea()
+numComments=4
