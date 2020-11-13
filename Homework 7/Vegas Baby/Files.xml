@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_161" class="java.beans.XMLDecoder">
+ <object class="vegas.baby.Tile">
+  <void property="color">
+   <int>1</int>
+  </void>
+  <void property="shape">
+   <boolean>false</boolean>
+  </void>
+ </object>
+ <object class="vegas.baby.Tile"/>
+ <object class="vegas.baby.Tile">
+  <void property="color">
+   <int>2</int>
+  </void>
+  <void property="shape">
+   <boolean>false</boolean>
+  </void>
+ </object>
+ <object class="vegas.baby.Tile">
+  <void property="color">
+   <int>2</int>
+  </void>
+ </object>
+</java>
